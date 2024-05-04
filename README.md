@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://64.media.tumblr.com/24003ef034a81c85c532953385cddf2f/a347aa0c85efd02d-0f/s500x750/ca9617e1e8e36e41d52325d4091c5d0112ab3225.gifv"  />
+  <img height="200" width="400" src="https://64.media.tumblr.com/24003ef034a81c85c532953385cddf2f/a347aa0c85efd02d-0f/s500x750/ca9617e1e8e36e41d52325d4091c5d0112ab3225.gifv"  />
 </div>
 
 ###
@@ -37,6 +37,11 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moatasem75291&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
 
 ###
 
@@ -82,9 +87,29 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <a href="https://open.spotify.com/user/Mo3tsm Mo7med">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Mo3tsm%20Mo7med&count=5&unique=false" alt="Spotify recently played"  />
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=il27m9xlu307wwzoemptzbwyg)
+  <a href="https://open.spotify.com/user/il27m9xlu307wwzoemptzbwyg">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=il27m9xlu307wwzoemptzbwyg&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/moatasem75291/moatasem75291/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moatasem75291&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=moatasem75291&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
