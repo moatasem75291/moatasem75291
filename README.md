@@ -5,26 +5,26 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mo3tsm2212/" target="blank">
+  <a href="https://www.linkedin.com/in/mo3tsm2212/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="113" height="43" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/MoatasemMohamm7" target="blank">
+  <a href="https://twitter.com/MoatasemMohamm7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="113" height="43" alt="twitter logo"  />
   </a>
-  <a href="mo3tasem6654" target="blank">
+  <a href="mo3tasem6654" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="113" height="43" alt="discord logo"  />
   </a>
-  <a href="https://www.facebook.com/mo5les2262" target="blank">
+  <a href="https://www.facebook.com/mo5les2262" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="113" height="43" alt="facebook logo"  />
   </a>
-  <a href="mo5les75291@gmail.com" target="blank">
+  <a href="mo5les75291@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="113" height="43" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Welcome visitors 😶‍🌫️</h1>
+<h1 align="center">Welcome, visitor😶‍🌫️</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Moatasem Mohammed from Egypt. 🔭<br>- I’m working as a Data Scientist. 📚 <br>- I'm currently learning NLP preprocessing and Large Language Models (LLM). ⚡<br>- In my free time, I enjoy watching anime and exploring new technologies to stay updated in the field of data science.</p>
+<p align="left">I'm Moatasem Mohammed from Egypt. 🔭<br>- I’m working as a Data Scientist. 📚 <br>- I'm learning NLP and diving deeper with Large Language Models (LLM). ⚡<br>- In my free time, I enjoy watching anime and exploring new technologies to stay updated in the field of data science.</p>
 
 ###
 
@@ -82,12 +82,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=moatasem75291&theme=dracula" alt="Layout with last medium posts"  />
+  <a href="https://open.spotify.com/user/Mo3tsm Mo7med">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Mo3tsm%20Mo7med&count=5&unique=false" alt="Spotify recently played"  />
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=il27m9xlu307wwzoemptzbwyg)
+  </a>
 </div>
-
-###
