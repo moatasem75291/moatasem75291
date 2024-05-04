@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mo3tsm2212/" target="_blank">
+  <a href="https://www.linkedin.com/in/mo3tsm2212/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="113" height="43" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/MoatasemMohamm7" target="_blank">
