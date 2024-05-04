@@ -8,16 +8,16 @@
   <a href="https://www.linkedin.com/in/mo3tsm2212/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="113" height="43" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/MoatasemMohamm7" target="_blank">
+  <a href="https://twitter.com/MoatasemMohamm7" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="113" height="43" alt="twitter logo"  />
   </a>
-  <a href="mo3tasem6654" target="_blank">
+  <a href="mo3tasem6654" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="113" height="43" alt="discord logo"  />
   </a>
-  <a href="https://www.facebook.com/mo5les2262" target="_blank">
+  <a href="https://www.facebook.com/mo5les2262" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="113" height="43" alt="facebook logo"  />
   </a>
-  <a href="mo5les75291@gmail.com" target="_blank">
+  <a href="mo5les75291@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="113" height="43" alt="gmail logo"  />
   </a>
 </div>
