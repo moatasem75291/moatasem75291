@@ -4,22 +4,20 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/mo3tsm2212/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="113" height="43" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/MoatasemMohamm7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="113" height="43" alt="twitter logo"  />
   </a>
-  <a href="mo3tasem6654" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="113" height="43" alt="discord logo"  />
+  <a href="https://www.kaggle.com/moatasemmohammed" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" width="90" height="43" alt="kaggle logo"  />
   </a>
   <a href="https://www.facebook.com/mo5les2262" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="113" height="43" alt="facebook logo"  />
   </a>
-  <a href="mo5les75291@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="113" height="43" alt="gmail logo"  />
-  </a>
+
 </div>
 
 ###
@@ -32,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Moatasem Mohammed from Egypt. 🔭<br>- I’m working as a Data Scientist. 📚 <br>- I'm learning NLP and diving deeper with Large Language Models (LLM). ⚡<br>- In my free time, I enjoy watching anime and exploring new technologies to stay updated in the field of data science.</p>
+<p align="left">I'm Moatasem Mohammed from Egypt. 🔭<br>- Working as a Data Scientist. 📚 <br>- I'm learning NLP and diving deeper with Large Language Models (LLM). ⚡<br>- In my free time, I enjoy watching anime and exploring new technologies to stay updated in the field of data science.</p>
 
 ###
 
