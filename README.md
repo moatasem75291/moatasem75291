@@ -54,8 +54,6 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="44" alt="jupyter logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="44" alt="vscode logo"  />
-  <img width="24" />
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="44" alt="kaggle logo"  />
   <img width="24" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="docker logo"  />
