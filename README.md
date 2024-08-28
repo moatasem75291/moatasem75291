@@ -60,8 +60,6 @@
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=aws" height="44" alt="amazonwebservices logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="44" alt="azure logo"  />
-  <img width="24" />
   <img src="https://skillicons.dev/icons?i=flask" height="44" alt="flask logo"  />
   <img width="24" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="44" alt="fastapi logo"  />
